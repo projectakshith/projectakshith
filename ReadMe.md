@@ -1,4 +1,19 @@
 
+<div style="display:flex; flex-direction:column; margin:0; padding:0; line-height:0;">
+  <img src="https://github.com/user-attachments/assets/6c8f3fd7-fa39-40d4-940d-1ce2d647d6d1" width="100%">
+  <img width="1206" height="151" alt="image" src="https://github.com/user-attachments/assets/4b4fd5a5-b0f9-48cd-b21f-2d3b763e86b5" />
+  <img src="https://github.com/user-attachments/assets/620f503f-8aae-4343-98ba-7490695e38ac" width="100%">
+</div>
+
+
+
+
+<!--img width="607" height="114" alt="image" src="https://github.com/user-attachments/assets/3db42f0b-8e7b-4fa6-9d3f-7735c03951e3" /-->
+
+
+<!--img width="1916" height="250" alt="image" src="https://github.com/user-attachments/assets/3faaca6f-c8a4-4fec-a5ab-dc7a66129819" /-->
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshithfilms) 
 
@@ -12,4 +27,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=projectakshith&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

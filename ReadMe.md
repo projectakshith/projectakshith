@@ -1,29 +1,63 @@
-
-<div style="display:flex; flex-direction:column; margin:0; padding:0; line-height:0;">
-  <img src="https://github.com/user-attachments/assets/6c8f3fd7-fa39-40d4-940d-1ce2d647d6d1" width="100%">
-  <img width="1206" height="151" alt="image" src="https://github.com/user-attachments/assets/4b4fd5a5-b0f9-48cd-b21f-2d3b763e86b5" />
-  <img src="https://github.com/user-attachments/assets/620f503f-8aae-4343-98ba-7490695e38ac" width="100%">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6c8f3fd7-fa39-40d4-940d-1ce2d647d6d1" width="100%" alt="Header Image 1">
+  <img src="https://github.com/user-attachments/assets/4b4fd5a5-b0f9-48cd-b21f-2d3b763e86b5" width="100%" alt="Header Image 2">
+  <img src="https://github.com/user-attachments/assets/620f503f-8aae-4343-98ba-7490695e38ac" width="100%" alt="Header Image 3">
 </div>
 
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=arch" width="20" align="center" /> <i>I use Arch btw.</i>
+  </p>
+  <p>Full-Stack Developer | Graphic Designer | Creative Director</p>
+  
+  <a href="https://instagram.com/akshithfilms">
+    <img src="https://skillicons.dev/icons?i=instagram" width="20" align="center" /> @akshithfilms
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/akshith-rajesh">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="20" align="center" /> Akshith Rajesh
+  </a>
+  <br><br>
+  
+</div>
 
+---
 
+## Tech & Creative Stack
 
-<!--img width="607" height="114" alt="image" src="https://github.com/user-attachments/assets/3db42f0b-8e7b-4fa6-9d3f-7735c03951e3" /-->
+<div align="left">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,java,html,css" />
 
+  <h3>Frontend & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
-<!--img width="1916" height="250" alt="image" src="https://github.com/user-attachments/assets/3faaca6f-c8a4-4fec-a5ab-dc7a66129819" /-->
+  <h3>Backend & Databases</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,supabase,firebase" />
 
+  <h3>Cloud, Hosting & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,heroku,git,github" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshithfilms) 
+  <h3>Design, Video & 3D</h3>
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma,blender,unreal" />
 
-# Skill Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)  ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=projectakshith&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=projectakshith&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=projectakshith&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <h3>AI & Hardware</h3>
+  <img src="https://skillicons.dev/icons?i=tensorflow,arduino" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=projectakshith&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+---
 
+## Analytics & Trophies
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=projectakshith&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=projectakshith&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=projectakshith&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=projectakshith&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" /> 
+</div>

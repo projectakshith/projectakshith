@@ -19,6 +19,7 @@
   </a>
   <br><br>
   
+  <img src="https://img.shields.io/badge/Monkeytype-120_WPM-e2b714?logo=monkeytype&logoColor=black" align="center" alt="Monkeytype Speed" /> hehe itypespeeeeed
 </div>
 
 ---

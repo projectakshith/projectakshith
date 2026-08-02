@@ -48,17 +48,3 @@
 
 ---
 
-## Analytics & Trophies
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=projectakshith&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=projectakshith&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=projectakshith&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=projectakshith&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" /> 
-</div>

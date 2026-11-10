@@ -1,50 +1,37 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6c8f3fd7-fa39-40d4-940d-1ce2d647d6d1" width="100%" alt="Header Image 1">
-  <img src="https://github.com/user-attachments/assets/4b4fd5a5-b0f9-48cd-b21f-2d3b763e86b5" width="100%" alt="Header Image 2">
-  <img src="https://github.com/user-attachments/assets/620f503f-8aae-4343-98ba-7490695e38ac" width="100%" alt="Header Image 3">
-</div>
-
-<div align="center">
-  <p>
-    <img src="https://skillicons.dev/icons?i=arch" width="20" align="center" /> <i>I use Arch btw.</i>
-  </p>
-  <p>Full-Stack Developer | Graphic Designer | Creative Director</p>
-  
-  <a href="https://instagram.com/akshithfilms">
-    <img src="https://skillicons.dev/icons?i=instagram" width="20" align="center" /> @akshithfilms
-  </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/akshith-rajesh">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="20" align="center" /> Akshith Rajesh
-  </a>
+  <img width="100%" alt="Cinematic Neo banner" src="https://github.com/user-attachments/assets/d9f07df7-6c97-4d97-812a-669442a0b38b" />
+  <div align="right">
   <br><br>
   
-  <img src="https://img.shields.io/badge/Monkeytype-120_WPM-e2b714?logo=monkeytype&logoColor=black" align="center" alt="Monkeytype Speed" /> hehe itypespeeeeed
+  <samp>
+    AKSHITH RAJESH<br>
+    full-stack developer · graphic designer · creative director<br>
+  </samp>
+
+  <br><br>
+
+  <a href="https://instagram.com/akshithfilms">instagram</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/akshith-rajesh">linkedin</a>
+  &nbsp;·&nbsp;
+  </div>
 </div>
 
 ---
 
-## Tech & Creative Stack
+### 0x01 / the setup
 
-<div align="left">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,java,html,css" />
-
-  <h3>Frontend & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-
-  <h3>Backend & Databases</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,supabase,firebase" />
-
-  <h3>Cloud, Hosting & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,heroku,git,github" />
-
-  <h3>Design, Video & 3D</h3>
-  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma,blender,unreal" />
-
-  <h3>AI & Hardware</h3>
-  <img src="https://skillicons.dev/icons?i=tensorflow,arduino" />
-</div>
+<samp>
+LANGUAGES&nbsp;&nbsp; C · C++ · Python · TypeScript · Java · HTML · CSS<br>
+FRONTEND&nbsp;&nbsp;&nbsp; React · Next.js · Tailwind<br>
+BACKEND&nbsp;&nbsp;&nbsp;&nbsp; Node.js · MySQL · MongoDB · Supabase · Firebase<br>
+INFRA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AWS · GCP · Vercel · Netlify · Heroku · Git · GitHub<br>
+CREATIVE&nbsp;&nbsp;&nbsp; Photoshop · Illustrator · After Effects · Premiere · Figma · Blender · Unreal<br>
+OTHER&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RasberryPi · Arduino 
+</samp>
 
 ---
 
+```text
+> building things for screens, systems, and stories.
+```
